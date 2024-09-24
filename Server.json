@@ -1,5 +1,5 @@
 {  
-  "version": "0.9.9",
+  "version": "1.1",
   "tittle": "Jerrys Mod",
   "description": "TBD",
   "bannerImage": "https://raw.githubusercontent.com/HangryToast/Unison-Engine/main/News/CoolBanner.png",
@@ -7,22 +7,22 @@
     {
       "code": "Developer",
       "active": true,      
-      "keys": ["Fedora", "Dev Name"]
+      "keys": ["fedora", "devName"]
     },
     {
       "code": "Gio",
       "active": true,      
-      "keys": ["Nerd"]
+      "keys": ["nerd"]
     },
     {
       "code": "Rick",
       "active": true,      
-      "keys": ["Rick"]
+      "keys": ["rick"]
     },   
     {
       "code": "1x Pass",
       "active": true,      
-      "keys": ["BattlePass"]
+      "keys": ["battlePass"]
     }   
   ]
 }
